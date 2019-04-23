@@ -43,3 +43,8 @@ function dec(n){
   
   return num;
 }
+
+function makeInt(n){
+  var num = parseInt(n);
+  return num
+}
