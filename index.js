@@ -50,5 +50,6 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  
+  var num = parseFloat(n);
+  return num;
 }
