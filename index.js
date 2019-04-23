@@ -46,5 +46,7 @@ function dec(n){
 
 function makeInt(n){
   var num = parseInt(n);
-  return num
+  return num;
 }
+
+make
