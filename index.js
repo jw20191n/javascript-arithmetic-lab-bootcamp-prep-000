@@ -21,3 +21,18 @@ function multiply(a,b){
   
   return total;
 }
+
+function divide(a,b){
+  var num1 = parseInt(a);
+  var num2 = parseInt(b);
+  var total = num1 / num2;
+  
+  return total;
+}
+
+function inc(n){
+  var num = parseInt(n);
+  var inc += num;
+  
+  return inc;
+}
