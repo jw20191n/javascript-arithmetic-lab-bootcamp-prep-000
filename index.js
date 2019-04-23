@@ -36,3 +36,10 @@ function inc(n){
   
   return num;
 }
+
+function dec(n){
+  var num = parseInt(n);
+  num -= 1;
+  
+  return num;
+}
