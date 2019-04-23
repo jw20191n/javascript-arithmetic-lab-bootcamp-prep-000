@@ -34,5 +34,5 @@ function inc(n){
   var num = parseInt(n);
   var num += 1;
   
-  return inc;
+  return num;
 }
