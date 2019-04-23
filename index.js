@@ -32,7 +32,7 @@ function divide(a,b){
 
 function inc(n){
   var num = parseInt(n);
-  var inc += num;
+  var num += 1;
   
   return inc;
 }
