@@ -6,7 +6,7 @@ function add(a,b){
   return total;
 }
 
-subtract(a,b){
+function subtract(a,b){
   var num1 = parseInt(a);
   var num2 = parseInt(b);
   var total = num1 - num2;
